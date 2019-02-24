@@ -3,4 +3,6 @@
     <identifier>TribalHeadgearRetexturing</identifier>
     <version>1.0.0</version>
     <showCrossPromotions>true</showCrossPromotions>
+    <manifestUri>https://raw.githubusercontent.com/Densevoid/TribalHeadgearRetexturing/master/About/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/Densevoid/TribalHeadgearRetexturing/releases/latest</downloadUri>
 </Manifest>
